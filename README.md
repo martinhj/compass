@@ -2,3 +2,5 @@
 
 Using the magnetometer in the LSM303DLHC sensor (breakout board from adafruit)
 to read magnetic data to figure out magnetic north.
+
+Check out the video: https://vimeo.com/108475692
