@@ -5,4 +5,4 @@ to read magnetic data to figure out magnetic north.
 
 Check out the video: https://vimeo.com/108475692
 
-![Alt text](gestureLock.jpg?raw=true "gesture lock")
+![Alt text](compass.jpg?raw=true "gesture lock")
